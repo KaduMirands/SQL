@@ -1,9 +1,84 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0 (Edition std-2)" version="28.1.1">
   <diagram name="Página-1" id="hrrwtAiz2E6xMPaG1-kd">
-    <mxGraphModel>
+    <mxGraphModel dx="1251" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XacqhNaXpOpdGLphI5MN-1" value="Aluno A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XacqhNaXpOpdGLphI5MN-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="920" as="sourcePoint" />
+            <mxPoint x="590" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XacqhNaXpOpdGLphI5MN-3" value="ALUNO B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XacqhNaXpOpdGLphI5MN-5" value="RELACIONAMENTO: FORMOU GRUPO COM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="870" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XacqhNaXpOpdGLphI5MN-6" value="1º Semestre 2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="930" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XacqhNaXpOpdGLphI5MN-7" value="ALUNO E" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="492.5" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XacqhNaXpOpdGLphI5MN-8" value="ALUNO C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="920" y="880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XacqhNaXpOpdGLphI5MN-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="920" as="sourcePoint" />
+            <mxPoint x="920" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XacqhNaXpOpdGLphI5MN-10" value="RELACIONAMENTO: FORMOU GRUPO COM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="870" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XacqhNaXpOpdGLphI5MN-11" value="1º Semestre 2024" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="940" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XacqhNaXpOpdGLphI5MN-12" value="Curso: CC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="960" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XacqhNaXpOpdGLphI5MN-13" value="Curso: CC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="960" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XacqhNaXpOpdGLphI5MN-14" value="SEM RELACIONAMENTO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="412.5" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XacqhNaXpOpdGLphI5MN-16" value="CURSO ADS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XacqhNaXpOpdGLphI5MN-17" value="ALUNO F" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="822.5" y="680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XacqhNaXpOpdGLphI5MN-18" value="SEM RELACIONAMENTO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="742.5" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XacqhNaXpOpdGLphI5MN-19" value="CURSO CC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="907.5" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XacqhNaXpOpdGLphI5MN-20" value="ALUNO D" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XacqhNaXpOpdGLphI5MN-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="920" as="sourcePoint" />
+            <mxPoint x="1250" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XacqhNaXpOpdGLphI5MN-22" value="RELACIONAMENTO: FORMOU GRUPO COM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="870" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XacqhNaXpOpdGLphI5MN-23" value="1º Semestre 2025" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="940" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XacqhNaXpOpdGLphI5MN-24" value="Curso: CC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="960" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
